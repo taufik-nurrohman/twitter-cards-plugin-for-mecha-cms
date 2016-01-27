@@ -1,0 +1,4 @@
+plugin_twitter_cards:
+  twitter_site: Website Attribution
+  twitter_creator: Creator Attribution
+  description: Without the <code>@</code> prefix.

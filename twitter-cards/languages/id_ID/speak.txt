@@ -1,0 +1,4 @@
+plugin_twitter_cards:
+  twitter_site: Atribusi Situs Web
+  twitter_creator: Atribusi Pembuat
+  description: Tanpa awalan <code>@</code>.

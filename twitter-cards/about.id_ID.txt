@@ -1,0 +1,12 @@
+Title: Kartu Twitter
+Author: Taufik Nurrohman
+URL: http://latitudu.com
+Version: 1.0.0
+
+====
+
+> Secara otomatis menyisipkan tag meta [Twitter Cards](https://dev.twitter.com/cards/overview "Twitter Cards") ke dalam kepala **Mecha**.
+
+Dengan **Kartu Twitter**, Anda dapat melampirkan _Tweet_ foto, video dan pengalaman media yang mengarahkan lalu lintas ke situs web Anda. Pengguna yang menge–_tweet_ tautan ke konten Anda akan memiliki tambahan “Kartu” ke _tweet_ tersebut sehingga dapat terlihat oleh semua pengikut mereka.
+
+<!-- block:donate -->
